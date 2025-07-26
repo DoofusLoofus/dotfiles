@@ -1,0 +1,23 @@
+2025-07-26T03:54:14.243Z - info: [ui] [AppStore] loading 0 repositories from store
+2025-07-26T03:54:14.253Z - info: [ui] [AppStore] found account: DoofusLoofus (DoofusLoofus)
+2025-07-26T03:54:15.338Z - warn: [ui] Error refreshing account 'DoofusLoofus'
+Error: Cannot update an account which doesn't have a token: DoofusLoofus
+    at at (/home/digmz/webpack:/app/src/lib/fatal-error.ts:3:9)
+    at /home/digmz/webpack:/app/src/lib/stores/accounts-store.ts:248:12
+    at Op.tryUpdateAccount (/home/digmz/webpack:/app/src/lib/stores/accounts-store.ts:136:20)
+    at /home/digmz/webpack:/app/src/lib/stores/accounts-store.ts:116:37
+    at Array.map (<anonymous>)
+    at Op.refresh (/home/digmz/webpack:/app/src/lib/stores/accounts-store.ts:116:21)
+    at Op.loadInitialState (/home/digmz/webpack:/app/src/lib/stores/app-store.ts:2309:24)
+2025-07-26T03:54:15.466Z - info: [ui] launching: 3.4.13-linux1 (Linux 6.15.4-arch2-1)
+2025-07-26T03:54:15.502Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-07-26T03:54:15.560Z - info: [ui] [AppStore] removing account DoofusLoofus (DoofusLoofus) from store
+2025-07-26T03:54:15.561Z - warn: [ui] fetchAll: 'user/repos' returned a 401
+2025-07-26T03:54:15.604Z - warn: [ui] Alive channel request failed: Error: Not Found
+2025-07-26T03:54:15.796Z - warn: [ui] Alive channel request failed: Error: Not Found
+2025-07-26T03:54:15.841Z - warn: [ui] Alive channel request failed: Error: Not Found
+2025-07-26T03:54:15.902Z - warn: [ui] Alive channel request failed: Error: Not Found
+2025-07-26T03:54:15.981Z - info: [ui] Stats reported.
+2025-07-26T03:54:22.953Z - info: [ui] [AppStore] loading 0 repositories from store
+2025-07-26T03:54:23.148Z - info: [ui] launching: 3.4.13-linux1 (Linux 6.15.4-arch2-1)
+2025-07-26T03:54:23.149Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'

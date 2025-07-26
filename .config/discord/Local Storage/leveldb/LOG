@@ -1,0 +1,21 @@
+2025/07/23-00:21:23.175 354 Reusing MANIFEST /home/digmz/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/07/23-00:21:23.205 354 Recovering log #126
+2025/07/23-00:21:23.206 354 Reusing old log /home/digmz/.config/discord/Local Storage/leveldb/000126.log 
+2025/07/23-00:25:30.484 355 Level-0 table #130: started
+2025/07/23-00:25:30.542 355 Level-0 table #130: 1592671 bytes OK
+2025/07/23-00:25:30.546 355 Delete type=0 #126
+2025/07/23-00:25:30.548 355 Compacting 4@0 + 1@1 files
+2025/07/23-00:25:30.641 355 Generated table #131@0: 65 keys, 1590411 bytes
+2025/07/23-00:25:30.641 355 Compacted 4@0 + 1@1 files => 1590411 bytes
+2025/07/23-00:25:30.644 355 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/23-00:25:30.644 355 Delete type=2 #125
+2025/07/23-00:25:30.644 355 Delete type=2 #121
+2025/07/23-00:25:30.644 355 Delete type=2 #130
+2025/07/23-00:25:30.644 355 Delete type=2 #123
+2025/07/23-00:25:30.644 355 Delete type=2 #127
+2025/07/25-16:39:56.988 355 Level-0 table #133: started
+2025/07/25-16:39:57.049 355 Level-0 table #133: 1576354 bytes OK
+2025/07/25-16:39:57.053 355 Delete type=0 #129
+2025/07/25-22:54:18.906 354 Level-0 table #135: started
+2025/07/25-22:54:18.930 354 Level-0 table #135: 69651 bytes OK
+2025/07/25-22:54:18.932 354 Delete type=0 #132

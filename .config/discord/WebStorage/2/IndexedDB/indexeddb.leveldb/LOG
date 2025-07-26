@@ -1,0 +1,7 @@
+2025/07/07-14:20:01.135 bcd Reusing MANIFEST /home/digmz/.config/discord/WebStorage/2/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/07/07-14:20:01.136 bcd Recovering log #4
+2025/07/07-14:20:01.136 bcd Reusing old log /home/digmz/.config/discord/WebStorage/2/IndexedDB/indexeddb.leveldb/000004.log 
+2025/07/07-14:20:01.170 be4 Level-0 table #8: started
+2025/07/07-14:20:01.178 be4 Level-0 table #8: 676 bytes OK
+2025/07/07-14:20:01.180 be4 Delete type=0 #4
+2025/07/07-14:20:01.181 bcd Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
